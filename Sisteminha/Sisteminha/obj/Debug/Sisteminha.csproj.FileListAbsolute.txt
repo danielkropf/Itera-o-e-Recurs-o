@@ -1,0 +1,9 @@
+C:\Users\seeduc\Desktop\Sisteminha\Sisteminha\bin\Debug\Sisteminha.exe.config
+C:\Users\seeduc\Desktop\Sisteminha\Sisteminha\bin\Debug\Sisteminha.exe
+C:\Users\seeduc\Desktop\Sisteminha\Sisteminha\bin\Debug\Sisteminha.pdb
+C:\Users\seeduc\Desktop\Sisteminha\Sisteminha\obj\Debug\Sisteminha.csprojResolveAssemblyReference.cache
+C:\Users\seeduc\Desktop\Sisteminha\Sisteminha\obj\Debug\Sisteminha.Form1.resources
+C:\Users\seeduc\Desktop\Sisteminha\Sisteminha\obj\Debug\Sisteminha.Properties.Resources.resources
+C:\Users\seeduc\Desktop\Sisteminha\Sisteminha\obj\Debug\Sisteminha.csproj.GenerateResource.Cache
+C:\Users\seeduc\Desktop\Sisteminha\Sisteminha\obj\Debug\Sisteminha.exe
+C:\Users\seeduc\Desktop\Sisteminha\Sisteminha\obj\Debug\Sisteminha.pdb
